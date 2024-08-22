@@ -3,6 +3,7 @@
 <b>ID</b> : CT08DS6996 <br/>
 <b>Domain </b>: Web Development <br/>
 <b>Duration </b>: 15 August to 15 September 2024 <br/>
+<b>Mentor : </b> Santhosh
 <br>
 <h3>Project : Weather App</h3>
 <hr/>
