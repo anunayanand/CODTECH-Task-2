@@ -19,10 +19,27 @@
   <li>Responsive design for mobile and desktop</li>
   <li>Responsive design</li>
 </ul>
-<h3>Technologies Used : </h3>
-<ul>
-  <li><b>HTML</b></li>
-  <li><b>CSS</b></li>
-  <li><b>JavaScript</b></li>
-</ul>
+#Files
+- `index.html`: The main HTML file containing the structure of the app.
+- `style.css`: The CSS file for styling the app.
+- `script.js`: The JavaScript file containing the logic for fetching and displaying weather data.
+## Code Structure
+
+### HTML
+The HTML structure of the app, including the input box for city names and the container for displaying weather information.
+
+### CSS
+Custom styles for the app, including dynamic background images based on weather conditions.
+
+### JavaScript
+The JavaScript code handles fetching data from the OpenWeatherMap API, displaying the weather information, and changing the background image based on weather conditions.
+
+## Dependencies
+- [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css): For weather icons.
+- [SweetAlert](https://unpkg.com/sweetalert/dist/sweetalert.min.js): For displaying alerts.
+
+## API
+This project uses the OpenWeatherMap API to fetch weather data. You will need an API key to access the data. You can sign up for a free API key [here](https://openweathermap.org/api).
+
+
 
